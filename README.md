@@ -1,4 +1,4 @@
-# Automation--Amazon
+
 Technology used
 
 Maven project
